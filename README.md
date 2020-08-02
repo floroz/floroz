@@ -1,4 +1,3 @@
-# Hi there, I am Daniele, a Frontend Engineer 👋
-### Welcome to my GitHub 
+# Hi there, I am Daniele, I build things with JavaScript 👋
 
 You can get in touch with me by email at contact@danieletortora.com.
