@@ -11,7 +11,7 @@
 
 interface SoftwareEngineer {
   languages: ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
-  frameworks: ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
+  frameworks: ['React', 'React Native', 'Next.js', 'Gatsby', 'Express, 'Angular'];
   testingTools: ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebDriver IO'];
 }
 
