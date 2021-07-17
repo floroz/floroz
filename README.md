@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/floroz)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieletortora/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@danieletortora.com)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz#open-source-contributions-heart)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
 ```ts
@@ -34,11 +34,10 @@ I am an advocate for web accessibility and inclusiveness, and I try to write sof
 
 ## Open Source Contributions :heart:
 
-- [`remark-lint` documentation and examples](https://github.com/remarkjs/remark-lint/pull/262)
-- [`next-remote-watch` pin dependencies and add static analysis](https://github.com/hashicorp/next-remote-watch/pull/21)
+- [A list of all my contributions](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
 
-### Get in touch!
+## Get in touch!
 
 You can get in touch with me by using the contact form on my [**Website**](https://www.danieletortora.com), or via email at contact@danieletortora.com.
