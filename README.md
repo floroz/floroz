@@ -29,7 +29,7 @@ I love solving problems and creating flexible and maintainable software architec
 
 Through mentoring, pair programming, and code reviews, I contribute to building a healthy team culture that highlights the importance of writing clean, modular, and loosely coupled code that is easy to extend, maintain and reuse.
 
-I am an advocate for web accessibility and inclusiveness, and I try to write software that is usable (and enjoyable) by large audiences with different needs and skillsets.
+I am an advocate for web accessibility and inclusiveness, and I write software that is usable (and enjoyable) by large audiences with different needs and skillsets.
 
 
 ## Open Source Contributions :heart:
