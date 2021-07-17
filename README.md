@@ -8,9 +8,9 @@
 
 ```ts
 interface SoftwareEngineer {
-  language: ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
-  framework: ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
-  testing: ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebDriver IO'];
+  languages: ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
+  frameworks: ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
+  testingTools: ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebDriver IO'];
 }
 
 interface Daniele extends SoftwareEngineer {
