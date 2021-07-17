@@ -18,6 +18,7 @@ interface Daniele extends SoftwareEngineer {
   speaks: 'English' | 'Italian';
   interests: Interests;
 }
+
 type Interests = ['Programming', 'Jumping Rope', 'Swimming', 'Travelling'];
 ```
 
