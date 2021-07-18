@@ -9,10 +9,14 @@
 ```ts
 // 'models/daniele.ts'
 
+type Languages = ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
+type Frameworks = ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
+type TestingTools = ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebdriverIO', 'Puppeteer'];
+
 interface SoftwareEngineer {
-  languages: ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
-  frameworks: ['React', 'React Native', 'Next.js', 'Gatsby', 'Express, 'Angular'];
-  testingTools: ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebDriver IO'];
+  languages: Languages;
+  frameworks: Frameworks;
+  testingTools: TestingTools;
 }
 
 interface Daniele extends SoftwareEngineer {
