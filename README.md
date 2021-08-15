@@ -20,7 +20,7 @@ interface SoftwareEngineer {
 }
 
 interface Daniele extends SoftwareEngineer {
-  location: 'London, United Kingdom';
+  location: 'Zurich, Switzerland';
   speaks: 'English' | 'Italian';
   interests: Interests;
 }
