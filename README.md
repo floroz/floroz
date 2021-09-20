@@ -11,7 +11,7 @@
 
 type Languages = ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
 type Frameworks = ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
-type TestingTools = ['Jest', 'Testing Library', 'Cypress', 'Detox', 'WebdriverIO', 'Puppeteer'];
+type TestingTools = ['Jest', 'Testing Library', 'Cypress', 'Detox'];
 
 interface SoftwareEngineer {
   languages: Languages;
