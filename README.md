@@ -10,8 +10,8 @@
 // 'models/daniele.ts'
 
 type Languages = ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
-type Frameworks = ['React', 'React Native', 'Next.js', 'Gatsby', 'Express'];
-type TestingTools = ['Jest', 'Testing Library', 'Cypress', 'Detox'];
+type Frameworks = ['React', 'Next.js', 'React Native',, 'Gatsby', 'Express'];
+type TestingTools = ['Jest', 'Playwright', 'Testing Library', 'Cypress', 'Detox'];
 
 interface SoftwareEngineer {
   languages: Languages;
