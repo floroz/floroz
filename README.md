@@ -25,7 +25,7 @@ interface Daniele extends SoftwareEngineer {
   interests: Interests;
 }
 
-type Interests = ['Programming', 'Jumping Rope', 'Swimming', 'Travelling'];
+type Interests = ['Programming', 'Motorcycles', 'Jumping Rope', 'Swimming', 'Travelling'];
 ```
 
 ## I build things with JavaScript 
