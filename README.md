@@ -9,14 +9,14 @@
 ```ts
 // 'models/daniele.ts'
 
-type Languages = ['JavaScript', 'TypeScript', 'Node.js', 'GraphQL'];
-type Frameworks = ['React', 'Next.js', 'React Native',, 'Gatsby', 'Express'];
-type TestingTools = ['Jest', 'Playwright', 'Testing Library', 'Cypress', 'Detox'];
+type Languages = ['JavaScript', 'TypeScript', 'Node.js', PHP', 'GraphQL'];
+type Frameworks = ['React', 'Next.js', 'Angular', 'React Native', 'Gatsby', 'Express'];
+type TestingFramework = ['Jest', 'Playwright', 'Testing Library', 'Cypress', 'Detox'];
 
 interface SoftwareEngineer {
   languages: Languages;
   frameworks: Frameworks;
-  testingTools: TestingTools;
+  testingFrameworks: TestingFramework;
 }
 
 interface Daniele extends SoftwareEngineer {
@@ -25,7 +25,7 @@ interface Daniele extends SoftwareEngineer {
   interests: Interests;
 }
 
-type Interests = ['Programming', 'Motorcycles', 'Jumping Rope', 'Swimming', 'Travelling'];
+type Interests = ['Programming', 'Motorcycles', 'Gym', 'Swimming', 'Travelling'];
 ```
 
 ## I build things with JavaScript 
