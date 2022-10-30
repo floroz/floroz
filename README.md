@@ -9,14 +9,12 @@
 ```ts
 // 'models/daniele.ts'
 
-type Languages = ['JavaScript', 'TypeScript', 'Node.js', PHP', 'GraphQL'];
-type Frameworks = ['React', 'Next.js', 'Angular', 'React Native', 'Gatsby', 'Express'];
-type TestingFramework = ['Jest', 'Playwright', 'Testing Library', 'Cypress', 'Detox'];
+type Languages = 'JavaScript' | 'TypeScript' | 'Node.js' | 'PHP' | 'GraphQL' | 'SQL';
+type Frameworks = 'React' | 'Next.js' | 'Angular' | 'React Native' | 'Gatsby' | 'Express';
 
 interface SoftwareEngineer {
   languages: Languages;
   frameworks: Frameworks;
-  testingFrameworks: TestingFramework;
 }
 
 interface Daniele extends SoftwareEngineer {
@@ -25,7 +23,9 @@ interface Daniele extends SoftwareEngineer {
   interests: Interests;
 }
 
-type Interests = ['Programming', 'Motorcycles', 'Gym', 'Swimming', 'Travelling'];
+const interests = ['Programming', 'Motorcycles', 'Gym', 'Swimming', 'Travelling', 'Cooking'] as const;
+
+type Interests = typeof interests[number]
 ```
 
 ## I build things with JavaScript 
