@@ -8,24 +8,60 @@
 
 ```ts
 // 'models/daniele.ts'
-
-type Languages = 'JavaScript' | 'TypeScript' | 'Node.js' | 'PHP' | 'GraphQL' | 'SQL';
-type Frameworks = 'React' | 'Next.js' | 'Angular' | 'React Native' | 'Gatsby' | 'Express';
+const technologiesUsed = [
+  "JavaScript",
+  "TypeScript",
+  "Angular",
+  "React",
+  "Next.js",
+  "Node.js",
+  "PHP",
+  "GraphQL",
+  "SQL",
+  "React Native",
+  "Express",
+];
 
 interface SoftwareEngineer {
-  languages: Languages;
-  frameworks: Frameworks;
+  location: string;
+  interests: string[];
+  hasExperienceWith: (tech: string) => boolean;
+  speaks: (language: string) => Boolean;
 }
 
-interface Daniele extends SoftwareEngineer {
-  location: 'Zurich, Switzerland';
-  speaks: 'English' | 'Italian';
-  interests: Interests;
+class Daniele implements SoftwareEngineer {
+  private _location = "Zurich, Switzerland";
+
+  private _interests = [
+    "Programming",
+    "Motorcycles",
+    "Gym",
+    "Swimming",
+    "Travelling",
+    "Cooking",
+  ];
+  private languages = ["English", "Italian"];
+
+  public get location() {
+    return this._location;
+  }
+
+  public get interests() {
+    return this._interests;
+  }
+
+  public listTechnologies() {
+    return [...technologiesUsed];
+  }
+
+  public hasExperienceWith(tech: string) {
+    return technologiesUsed.includes(tech);
+  }
+  public speaks(language) {
+    return this.languages.includes(language);
+  }
 }
 
-const interests = ['Programming', 'Motorcycles', 'Gym', 'Swimming', 'Travelling', 'Cooking'] as const;
-
-type Interests = typeof interests[number]
 ```
 
 ## I build things with JavaScript 
