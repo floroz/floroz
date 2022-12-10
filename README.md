@@ -1,68 +1,10 @@
 <h1 align="center">Hi there, I am Daniele 👋</h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/floroz)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieletortora/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/floroz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@danieletortora.com)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
-
-```ts
-// 'models/daniele.ts'
-const technologiesUsed = [
-  "JavaScript",
-  "TypeScript",
-  "Angular",
-  "React",
-  "Next.js",
-  "Node.js",
-  "PHP",
-  "GraphQL",
-  "SQL",
-  "React Native",
-  "Express",
-];
-
-interface SoftwareEngineer {
-  location: string;
-  interests: string[];
-  hasExperienceWith: (tech: string) => boolean;
-  speaks: (language: string) => Boolean;
-}
-
-class Daniele implements SoftwareEngineer {
-  private _location = "Zurich, Switzerland";
-
-  private _interests = [
-    "Programming",
-    "Motorcycles",
-    "Gym",
-    "Swimming",
-    "Travelling",
-    "Cooking",
-  ];
-  private languages = ["English", "Italian"];
-
-  public get location() {
-    return this._location;
-  }
-
-  public get interests() {
-    return this._interests;
-  }
-
-  public listTechnologies() {
-    return [...technologiesUsed];
-  }
-
-  public hasExperienceWith(tech: string) {
-    return technologiesUsed.includes(tech);
-  }
-  public speaks(language) {
-    return this.languages.includes(language);
-  }
-}
-
-```
 
 ## I build things with JavaScript 
 
@@ -83,4 +25,4 @@ I am an advocate for web accessibility and inclusiveness, and I write software t
 
 ## Get in touch!
 
-You can get in touch with me by using the contact form on my [**Website**](https://www.danieletortora.com), or via email at contact@danieletortora.com.
+You can get in touch with me via email at contact@danieletortora.com.
