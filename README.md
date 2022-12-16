@@ -8,13 +8,11 @@
 
 ## I build things with JavaScript 
 
-I am a Software Engineer who is passionate about creating rich user interfaces and interactive web applications, translating interaction designs and product concepts into an immersive experience for the end-users.
+I am a highly skilled Software Engineer with a passion for creating rich user interfaces and interactive web applications. With a strong focus on usability, accessibility, and inclusiveness, I specialize in translating interaction designs and product concepts into immersive experiences for end-users.
 
-I love solving problems and creating flexible and maintainable software architectures, which reflect SOLID principles and implement fitting design patterns.
+As a team player and mentor, I am committed to building a healthy team culture that values clean, modular, and loosely coupled code. I excel at solving problems, crafting flexible and maintainable software architectures, and implementing SOLID principles and design patterns.
 
-Through mentoring, pair programming, and code reviews, I contribute to building a healthy team culture that highlights the importance of writing clean, modular, and loosely coupled code that is easy to extend, maintain and reuse.
-
-I am an advocate for web accessibility and inclusiveness, and I write software that is usable (and enjoyable) by large audiences with different needs and skillsets.
+In my commercial experience, I have worked with a broad range of technologies and frameworks, including HTML & CSS, JavaScript, TypeScript, React, React Native, Next.js, Angular, Node.js, Express, GraphQL, Apollo, and PHP. 
 
 
 ## Open Source Contributions :heart:
