@@ -6,7 +6,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
-## I build things with JavaScript 
+## I love build things and solving problems
 
 I am a highly skilled Software Engineer with a passion for creating rich user interfaces and interactive web applications. With a strong focus on usability, accessibility, and inclusiveness, I specialize in translating interaction designs and product concepts into immersive experiences for end-users.
 
