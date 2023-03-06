@@ -20,7 +20,8 @@ In my commercial experience, I have worked with a broad range of technologies an
 - [A list of all my contributions](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
-
 ## Get in touch!
 
-You can get in touch with me via email at contact@danieletortora.com.
+- [Visit my personal website](https://www.danieletortora.com)
+
+- or get in touch with me via email at contact@danieletortora.com.
