@@ -23,5 +23,4 @@ In my commercial experience, I have worked with a broad range of technologies an
 ## Get in touch!
 
 - [Visit my personal website](https://www.danieletortora.com)
-
 - or get in touch with me via email at contact@danieletortora.com.
