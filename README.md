@@ -8,11 +8,13 @@
 
 ## I love build things and solving problems
 
-I am a highly skilled Software Engineer with a passion for creating rich user interfaces and interactive web applications. With a strong focus on usability, accessibility, and inclusiveness, I specialize in translating interaction designs and product concepts into immersive experiences for end-users.
+I am a highly skilled software engineer with over 6 years of experience in building rich user interfaces and interactive web applications. With a strong focus on usability, accessibility, and inclusivity, I specialize in translating interaction design and product concepts into immersive experiences for end users.
 
-As a team player and mentor, I am committed to building a healthy team culture that values clean, modular, and loosely coupled code. I excel at solving problems, crafting flexible and maintainable software architectures, and implementing SOLID principles and design patterns.
+As a tech lead and senior frontend developer, I have a proven track record in driving successful frontend architecture, implementing design systems, and creating component libraries. I excel in JavaScript/TypeScript development and possess commercial experience with all modern front-end frameworks such as React, Vue, and Angular. My understanding of HTML and CSS semantics, along with modern meta-frameworks like Next.js and Nuxt.js, allows me to solve various business problems and cater to diverse user needs.
 
-In my commercial experience, I have worked with a broad range of technologies and frameworks, including HTML & CSS, JavaScript, TypeScript, React, React Native, Next.js, Angular, Node.js, Express, GraphQL, Apollo, and PHP. 
+Adopting a DevOps mindset, I have successfully improved continuous integration pipelines on platforms like GitHub Actions, CircleCI, and Jenkins. Test automation is a passion of mine, and I have helped teams enhance their QA processes through effective testing strategies and utilizing tools such as Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic.
+
+As a team player and mentor, I am committed to building a healthy team culture that values clean, modular and loosely coupled code. I excel at problem-solving, creating flexible and maintainable software architectures, and implementing SOLID principles and design patterns.
 
 
 ## Open Source Contributions :heart:
