@@ -2,6 +2,10 @@
 
 My Open Source contributions.
 
+- [`storybook-vue-addon` [Feature] defineArgs macro and local `<Story :args />` override ](https://github.com/tobiasdiez/storybook-vue-addon/issues/76)
+- [`storybook-vue-addon` [RFC] feat: create defineArgs initial implementation](https://github.com/tobiasdiez/storybook-vue-addon/pull/73)
+- [`storybook` Vue3 Scoped Slot Props are not parsed correctly by autodocs resulting in incorrect source code](https://github.com/storybookjs/storybook/issues/24270)
+- [`storybook-vue-csf-addon`](https://github.com/floroz/storybook-vue-csf-addon) fork of `storybook-vue-addon` (WIP)
 - [`tailwindcss` Reviewing our decision of Removing Tailwind CSS from our Component Library](https://github.com/tailwindlabs/tailwindcss/discussions/10774)
 - [`storybook` `v7.2.0-rc.0` breaks Vue JSX types](https://github.com/storybookjs/storybook/issues/23819)
 - [`@storybook/vue3` Investigate Render Function/JSX Vue autodocs and rendering](https://github.com/storybookjs/storybook/issues/23437)
