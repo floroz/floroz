@@ -2,6 +2,7 @@
 
 My Open Source contributions.
 
+- [`radix-vue` [Bug]: @floating-ui/* dependencies is both added to bundle and installed in client's node_modules](https://github.com/radix-vue/radix-vue/issues/443)
 - [`storybook-vue-addon` [Feature] defineArgs macro and local `<Story :args />` override ](https://github.com/tobiasdiez/storybook-vue-addon/issues/76)
 - [`storybook-vue-addon` [RFC] feat: create defineArgs initial implementation](https://github.com/tobiasdiez/storybook-vue-addon/pull/73)
 - [`storybook` Vue3 Scoped Slot Props are not parsed correctly by autodocs resulting in incorrect source code](https://github.com/storybookjs/storybook/issues/24270)
