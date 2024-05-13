@@ -6,15 +6,17 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
-## I love build things and solving problems
+I am a Senior Software Engineer with a proven track record of success in building rich user interfaces and interactive web applications. With over 7+ years of experience, I specialize in translating interaction design and product concepts into immersive experiences that prioritize usability, accessibility, and inclusivity.
 
-I am a highly skilled software engineer with over 6 years of experience in building rich user interfaces and interactive web applications. With a strong focus on usability, accessibility, and inclusivity, I specialize in translating interaction design and product concepts into immersive experiences for end users.
+As a tech lead, I have driven successful front-end architecture, implemented design systems, and created component libraries, resulting in improved team efficiency and code quality. I have a passion for promoting a healthy team culture that values clean, modular, and loosely coupled code. By identifying and implementing suitable design patterns, I ensure the creation of flexible and maintainable software architectures.
 
-As a tech lead and senior frontend developer, I have a proven track record in driving successful frontend architecture, implementing design systems, and creating component libraries. I excel in JavaScript/TypeScript development and possess commercial experience with all modern front-end frameworks such as React, Vue, and Angular. My understanding of HTML and CSS semantics, along with modern meta-frameworks like Next.js and Nuxt.js, allows me to solve various business problems and cater to diverse user needs.
+I excel in JavaScript/TypeScript development and possess commercial experience with all modern front-end frameworks such as React, Vue, and Angular. My understanding of HTML and CSS semantics, along with modern meta-frameworks like Next.js and Nuxt.js, allows me to solve various business problems and cater to diverse user needs. I stay on top of the latest trends and tools to continuously adapt and thrive in the ever-evolving front-end landscape.
 
-Adopting a DevOps mindset, I have successfully improved continuous integration pipelines on platforms like GitHub Actions, CircleCI, and Jenkins. Test automation is a passion of mine, and I have helped teams enhance their QA processes through effective testing strategies and utilizing tools such as Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic.
+I am passionate about test automation and have helped teams enhance their QA processes through effective testing strategies. My proficiency includes tools such as Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic. By implementing robust testing methodologies, I ensure the delivery of reliable and bug-free software.
 
-As a team player and mentor, I am committed to building a healthy team culture that values clean, modular and loosely coupled code. I excel at problem-solving, creating flexible and maintainable software architectures, and implementing SOLID principles and design patterns.
+Having adopted a DevOps mindset, I have successfully improved continuous integration pipelines using platforms such as GitHub Actions, CircleCI, and Jenkins. By streamlining development processes, I have contributed to faster delivery cycles without compromising code quality.
+
+I take pride in being a team player and mentor. I have fostered a healthy team culture that encourages collaboration and knowledge sharing. By promoting clean code practices, I have empowered teams to build software that is scalable, robust, and easier to maintain..
 
 
 ## Open Source Contributions :heart:
