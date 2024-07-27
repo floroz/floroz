@@ -6,17 +6,28 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
-I am a Senior Software Engineer with a proven track record of success in building rich user interfaces and interactive web applications. With over 7+ years of experience, I specialize in translating interaction design and product concepts into immersive experiences that prioritize usability, accessibility, and inclusivity.
+### About Me
+I am a versatile Software Engineer with over 7 years of experience in solving complex problems and building robust, scalable applications. My journey in software development encompasses both front-end and back-end technologies, making me a well-rounded engineer capable of tackling diverse challenges.
 
-As a tech lead, I have driven successful front-end architecture, implemented design systems, and created component libraries, resulting in improved team efficiency and code quality. I have a passion for promoting a healthy team culture that values clean, modular, and loosely coupled code. By identifying and implementing suitable design patterns, I ensure the creation of flexible and maintainable software architectures.
+### Skills
 
-I excel in JavaScript/TypeScript development and possess commercial experience with all modern front-end frameworks such as React, Vue, and Angular. My understanding of HTML and CSS semantics, along with modern meta-frameworks like Next.js and Nuxt.js, allows me to solve various business problems and cater to diverse user needs. I stay on top of the latest trends and tools to continuously adapt and thrive in the ever-evolving front-end landscape.
+TypeScript, Node.js, Express, React, Vue, Angular, Docker, Kubernetes, Helm, MongoDB, PostgreSQL.
 
-I am passionate about test automation and have helped teams enhance their QA processes through effective testing strategies. My proficiency includes tools such as Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic. By implementing robust testing methodologies, I ensure the delivery of reliable and bug-free software.
+### What I Do
+- **Full-Stack Development**: Proficient in creating rich user interfaces and interactive web applications using JavaScript/TypeScript and modern frameworks like React, Vue, and Angular. My expertise extends to HTML and CSS semantics, along with meta-frameworks like Next.js and Nuxt.js, enables me to deliver immersive user experiences. On the back-end, I work with Express, Node.js, Docker, and Kubernetes, applying my analytical skills to optimize performance and ensure reliability.
 
-Having adopted a DevOps mindset, I have successfully improved continuous integration pipelines using platforms such as GitHub Actions, CircleCI, and Jenkins. By streamlining development processes, I have contributed to faster delivery cycles without compromising code quality.
+- **Program Analysis**: Working on software composition analysis scanners and building scalable solutions to address complex problems within the open-source ecosystem.
 
-I take pride in being a team player and mentor. I have fostered a healthy team culture that encourages collaboration and knowledge sharing. By promoting clean code practices, I have empowered teams to build software that is scalable, robust, and easier to maintain..
+- **System Design & Architecture:** As a technical lead, I have driven successful architecture projects, implemented design systems, and created component libraries. My emphasis on clean, modular, and loosely coupled code promotes flexible and maintainable software architectures.
+
+- **DevOps & Continuous Integration:** With a DevOps mindset, I have enhanced continuous integration pipelines using platforms such as GitHub Actions, CircleCI, and Jenkins. Streamlining development processes has enabled faster delivery cycles without compromising code quality.
+
+- **Test Automation:** I advocate for robust QA processes and have implemented effective testing strategies using tools like Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic. My goal is to ensure the delivery of reliable, bug-free software.
+
+### My Approach
+I believe in fostering a healthy team culture that values collaboration, knowledge sharing, and continuous improvement. By promoting clean code practices and identifying suitable design patterns, I empower teams to build scalable, robust, and maintainable software.
+
+I stay on top of the latest trends and tools to adapt and thrive in the ever-evolving tech landscape. My diverse skill set and ability to navigate both front-end and back-end challenges make me a well-rounded engineer capable of delivering high-quality solutions across the stack.
 
 
 ## Open Source Contributions :heart:
