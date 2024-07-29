@@ -11,7 +11,7 @@ I am a versatile Software Engineer with over 7 years of experience in solving co
 
 ### Skills
 
-TypeScript, JavaScript, Node.js, Express, React, Vue, Angular, HTML/CSS, Docker, Kubernetes, Helm, MongoDB, PostgreSQL.
+TypeScript, JavaScript, Node.js, Express, React, Vue, Angular, HTML/CSS, Docker, Kubernetes, Helm, Redis, MongoDB, PostgreSQL.
 
 ### What I Do
 - **Full-Stack Development**: Proficient in creating rich user interfaces and interactive web applications using JavaScript/TypeScript and modern frameworks like React, Vue, and Angular. My expertise extends to HTML and CSS semantics, along with meta-frameworks like Next.js and Nuxt.js, enables me to deliver immersive user experiences. On the back-end, I work with Express, Node.js, Docker, and Kubernetes, applying my analytical skills to optimize performance and ensure reliability.
