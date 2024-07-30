@@ -16,8 +16,6 @@ TypeScript, JavaScript, Node.js, Express, React, Vue, Angular, HTML/CSS, Docker,
 ### What I Do
 - **Full-Stack Development**: Proficient in creating rich user interfaces and interactive web applications using JavaScript/TypeScript and modern frameworks like React, Vue, and Angular. My expertise extends to HTML and CSS semantics, along with meta-frameworks like Next.js and Nuxt.js, enables me to deliver immersive user experiences. On the back-end, I work with Express, Node.js, Docker, and Kubernetes, applying my analytical skills to optimize performance and ensure reliability.
 
-- **Program Analysis**: Working on software composition analysis scanners and building scalable solutions to address complex problems within the open-source ecosystem.
-
 - **System Design & Architecture:** As a technical lead, I have driven successful architecture projects, implemented design systems, and created component libraries. My emphasis on clean, modular, and loosely coupled code promotes flexible and maintainable software architectures.
 
 - **DevOps & Continuous Integration:** With a DevOps mindset, I have enhanced continuous integration pipelines using platforms such as GitHub Actions, CircleCI, and Jenkins. Streamlining development processes has enabled faster delivery cycles without compromising code quality.
