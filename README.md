@@ -35,5 +35,5 @@ I stay on top of the latest trends and tools to adapt and thrive in the ever-evo
 
 ## Get in touch!
 
-- [Visit my personal website](https://www.danieletortora.com)
-- or get in touch with me via email at contact@danieletortora.com.
+- [Visit my personal website](https://danieletortora.netlify.com)
+- or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/).
