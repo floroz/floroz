@@ -35,5 +35,5 @@ I stay on top of the latest trends and tools to adapt and thrive in the ever-evo
 
 ## Get in touch!
 
-- [Visit my personal website](https://danieletortora.netlify.com)
+- [Visit my personal website](https://danieletortora.netlify.app/)
 - or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/).
