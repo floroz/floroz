@@ -27,13 +27,13 @@ I believe in fostering a healthy team culture that values collaboration, knowled
 
 I stay on top of the latest trends and tools to adapt and thrive in the ever-evolving tech landscape. My diverse skill set and ability to navigate both front-end and back-end challenges make me a well-rounded engineer capable of delivering high-quality solutions across the stack.
 
+## Get in touch!
+
+- [Visit my personal website](https://danieletortora.netlify.app/)
+- or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/).
 
 ## Open Source Contributions :heart:
 
 - [A list of all my contributions](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
 
 
-## Get in touch!
-
-- [Visit my personal website](https://danieletortora.netlify.app/)
-- or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/).
