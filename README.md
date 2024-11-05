@@ -11,7 +11,7 @@ Software Engineer with 8 years of experience in frontend, full-stack, and distri
 
 ### Skills
 
-Skills: TypeScript, JavaScript, React, Vue, Angular, Node.js, Docker, Kubernetes, PostgreSQL, AWS, CI/CD
+TypeScript, JavaScript, React, Vue, Angular, Node.js, Docker, Kubernetes, PostgreSQL, AWS, CI/CD
 
 ## Get in touch!
 
