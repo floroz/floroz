@@ -7,25 +7,11 @@
 
 
 ### About Me
-I am a versatile Software Engineer with over 7 years of experience in solving complex problems and building robust, scalable applications. My journey in software development encompasses both front-end and back-end technologies, making me a well-rounded engineer capable of tackling diverse challenges.
+Software Engineer with 8 years of experience in frontend, full-stack, and distributed systems. Skilled in TypeScript, Node.js, and frontend frameworks like React, Vue, and Angular, with backend expertise across REST APIs, gRPC, GraphQL, and integrating with storage solutions like Redis, PostgreSQL, and S3. Experienced in both microservices and monolithic architectures on cloud platforms such as AWS and GCP, with a DevOps-oriented approach to observability, performance monitoring, and deployment management.
 
 ### Skills
 
-TypeScript, JavaScript, Node.js, Express, React, Vue, Angular, HTML/CSS, Docker, Kubernetes, Helm, Redis, MongoDB, PostgreSQL.
-
-### What I Do
-- **Full-Stack Development**: Proficient in creating rich user interfaces and interactive web applications using JavaScript/TypeScript and modern frameworks like React, Vue, and Angular. My expertise extends to HTML and CSS semantics, along with meta-frameworks like Next.js and Nuxt.js, enables me to deliver immersive user experiences. On the back-end, I work with Express, Node.js, Docker, Helm Charts and Kubernetes, applying my analytical skills to optimize performance and ensure reliability.
-
-- **System Design & Architecture:** As a technical lead, I have driven successful architecture projects, implemented design systems, and created component libraries. My emphasis on clean, modular, and loosely coupled code promotes flexible and maintainable software architectures.
-
-- **DevOps & Continuous Integration:** With a DevOps mindset, I have enhanced continuous integration pipelines using platforms such as GitHub Actions, CircleCI, and Jenkins. Streamlining development processes has enabled faster delivery cycles without compromising code quality.
-
-- **Test Automation:** I advocate for robust QA processes and have implemented effective testing strategies using tools like Jest/Vitest, Cypress/Playwright, Storybook, and Percy/Chromatic. My goal is to ensure the delivery of reliable, bug-free software.
-
-### My Approach
-I believe in fostering a healthy team culture that values collaboration, knowledge sharing, and continuous improvement. By promoting clean code practices and identifying suitable design patterns, I empower teams to build scalable, robust, and maintainable software.
-
-I stay on top of the latest trends and tools to adapt and thrive in the ever-evolving tech landscape. My diverse skill set and ability to navigate both front-end and back-end challenges make me a well-rounded engineer capable of delivering high-quality solutions across the stack.
+Skills: TypeScript, JavaScript, React, Vue, Angular, Node.js, Docker, Kubernetes, PostgreSQL, AWS, CI/CD
 
 ## Get in touch!
 
