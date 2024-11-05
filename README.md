@@ -7,7 +7,7 @@
 
 
 ### About Me
-Software Engineer with 8 years of experience in frontend, full-stack, and distributed systems. Skilled in TypeScript, Node.js, and frontend frameworks like React, Vue, and Angular, with backend expertise across REST APIs, gRPC, GraphQL, and integrating with storage solutions like Redis, PostgreSQL, and S3. Experienced in both microservices and monolithic architectures on cloud platforms such as AWS and GCP, with a DevOps-oriented approach to observability, performance monitoring, and deployment management.
+Software Engineer with 8 years of experience in frontend, full-stack, and distributed systems. Skilled in TypeScript, Node.js, and frontend frameworks like React, Vue, and Angular, with backend expertise across REST APIs, gRPC, GraphQL, and integrating with storage solutions like Redis, PostgreSQL, and S3. Experienced in both microservices using Kubernetes, and monolithic architectures on cloud platforms such as AWS and GCP, with a DevOps-oriented approach to observability, performance monitoring, and deployment management.
 
 ### Skills
 
