@@ -7,7 +7,7 @@
 
 
 ### About Me
-Software Engineer with 8+ years of experience delivering scalable, high-performance systems and leading cross-functional teams. Specializing in frontend architecture and full-stack development, I craft intuitive, user-centric applications using modern frameworks like React, Vue, and Angular. I’ve designed and implemented robust component libraries and design systems that enhance consistency and accelerate development across organizations.
+Software Engineer with 8+ years of experience in frontend architecture and full-stack development, I craft intuitive, user-centric applications using modern frameworks like React, Vue, and Angular. I’ve designed and implemented robust component libraries and design systems that enhance consistency and accelerate development across organizations.
 
 On the backend, I have extensive experience building distributed microservices, designing efficient APIs (REST, GraphQL, gRPC), and integrating with scalable systems using Node.js, PostgreSQL, and Redis. My expertise extends to optimizing data pipelines, ensuring system reliability, and implementing cloud-native solutions with Kubernetes and AWS.
 
