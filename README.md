@@ -25,5 +25,6 @@ TypeScript, React, Vue, Node.js, REST, GraphQL, gRPC, Microservices, PostgreSQL,
 ## Open Source Contributions :heart:
 
 - [A list of all my contributions](https://github.com/floroz/floroz/blob/master/CONTRIBUTIONS.md)
+- Checkout the pinned projects on my GitHub page
 
 
