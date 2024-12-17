@@ -7,15 +7,21 @@
 
 
 ### About Me
-Software Engineer with 8+ years of experience in frontend architecture and full-stack development, I craft intuitive, user-centric applications using modern frameworks like React, Vue, and Angular. I’ve designed and implemented robust component libraries and design systems that enhance consistency and accelerate development across organizations.
 
-On the backend, I have extensive experience building distributed microservices, designing efficient APIs (REST, GraphQL, gRPC), and integrating with scalable systems using Node.js, PostgreSQL, and Redis. My expertise extends to optimizing data pipelines, ensuring system reliability, and implementing cloud-native solutions with Kubernetes and AWS.
+Experienced Software Engineer with over 8 years in the industry, specializing in full-stack development and cloud technologies. Proven track record of building interactive and performant user interfaces, platform and development tooling, data-intensive applications, robust APIs and scalable distributed services.
 
-With a strong focus on DevOps practices, I excel in CI/CD automation, containerization with Docker, and deploying robust production environments. Passionate about solving complex engineering challenges, I aim to deliver impactful software solutions that drive business success and improve user experiences.
+### Technical Skills
 
-### Skills
-
-TypeScript, React, Vue, Node.js, REST, GraphQL, gRPC, Microservices, PostgreSQL, Redis, Kubernetes, Docker, AWS, CI/CD, DevOps
+```ts
+const skills = {
+  languages: ["TypeScript", "JavaScript", "Go", "PHP"],
+  frameworks: ["Node.js", "React", "Next.js", "Vue", "Nuxt", "Angular"],
+  web: ["HTML", "CSS", "Tailwind", "Accessibility"],
+  devOps: ["Docker", "Kubernetes", "CircleCI", "GitHub Actions", "Jenkins"],
+  cloud: ["AWS", "GCP", "Vercel", "Netlify"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"],
+} as const;
+```
 
 ## Get in touch!
 
