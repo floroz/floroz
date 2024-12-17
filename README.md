@@ -24,7 +24,7 @@ const skills = {
 ## Get in touch
 
 - [Visit my personal website](https://danieletortora.netlify.app/)
-- or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/).
+- or get in touch with me [via LinkedIn](https://www.linkedin.com/in/danieletortora/) or [email](mailto:danieletortora.contact@gmail.com)
 
 ## Open Source Contributions :heart:
 
