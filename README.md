@@ -13,7 +13,7 @@ Experienced Software Engineer with over 8 years in the industry, specializing in
 - **Programming Language**s: TypeScript, JavaScript, Go, PHP
 - **Web Technologies**: Node.js, React, Next.js, Vue, Nuxt, Angular, HTML, CSS, Tailwind
 - **DevOps**: Docker, Kubernetes, Helm, CircleCI, GitHub Actions
-- **Cloud**: AWS, GCP, Vercel, Netlify
+- **Cloud**: AWS, GCP
 - **Database Systems**: PostgreSQL, MongoDB, Redis
   
 
