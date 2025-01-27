@@ -14,7 +14,7 @@ Experienced Software Engineer with over 8 years in the industry, specializing in
 - **Web Technologies**: Node.js, React, Next.js, Vue, Nuxt, Angular, Express, HTML, CSS, Tailwind
 - **DevOps**: Docker, Kubernetes, Helm, CircleCI, GitHub Actions
 - **Cloud**: AWS, GCP
-- **Database & Messaging Systems**: PostgreSQL, MongoDB, Redis, Apache Kafka
+- **Database & Messaging Systems**: PostgreSQL, MongoDB, Redis, Apache Kafka, NATS
   
 
 ## ✉️ Get in touch
