@@ -6,7 +6,7 @@
 
 ### ✏️ About Me
 
-Experienced Software Engineer with over 8 years in the industry, specializing in full-stack development and cloud technologies. Proven track record of building interactive and performant user interfaces, platform and development tooling, data-intensive applications, robust APIs and scalable distributed services.
+Experienced Software Engineer with over 8 years in the industry, specializing in UX/UI, full-stack development and cloud technologies. Proven track record of building interactive and performant user interfaces, platform and development tooling, data-intensive applications, robust APIs and scalable distributed services.
 
 ### 🛠️ Technical Skills
 
