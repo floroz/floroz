@@ -6,7 +6,7 @@
 
 ### ✏️ About Me
 
-As a software engineer with nearly a decade of experience, I've built my career on a core belief: that the most powerful systems are defined by their human experience. This principle, shaped by my background in psychology, drives me to bridge the divide between complex software architecture and elegant, intuitive user interfaces.
+As a software engineer with over 8 years of experience, I've built my career on a core belief: that the most powerful systems are defined by their human experience. This principle, shaped by my background in psychology, drives me to bridge the divide between complex software architecture and elegant, intuitive user interfaces.
 
 I put this philosophy into practice across the full stack by delivering modern frontend applications, designing robust APIs, and building the scalable, distributed backend systems that power them. Ultimately, my goal is to create holistic, data-driven platforms that are as powerful under the hood as they are a pleasure to use. I am now keenly focused on applying this user-centric approach to the world of AI, ensuring that intelligent systems are not only powerful but also accessible and intuitive.
 
