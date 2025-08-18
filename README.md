@@ -10,16 +10,6 @@ As a software engineer with over 8 years of experience, I've built my career on 
 
 I put this philosophy into practice across the full stack by delivering modern frontend applications, designing robust APIs, and building the scalable, distributed backend systems that power them. I am now keenly focused on applying this user-centric approach to the world of AI, ensuring that intelligent systems are not only powerful but also accessible and intuitive.
 
-### 🛠️ Technical Skills
-
-- **Programming Language**s: TypeScript, JavaScript, Go, PHP
-- **Web Technologies**: Node.js, React, Next.js, Vue, Nuxt, Angular, Express, HTML, CSS, Tailwind
-- **UX/UI & Design Systems**: Storybook, Component Libraries, Design Systems, Figma, Accessibility (WCAG), Core Web Vitals
-- **AI & Machine Learning**: Cursor, Gemini, Claude, OpenAI APIs, Prompt Engineering, Agentic Systems
-- **DevOps**: Docker, Kubernetes, Helm, CircleCI, GitHub Actions
-- **Cloud**: AWS, GCP
-- **Database & Messaging Systems**: PostgreSQL, MongoDB, Redis, Apache Kafka, NATS
-  
 
 ## ✉️ Get in touch
 
