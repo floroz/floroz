@@ -20,6 +20,7 @@ I put this philosophy into practice across the full stack by delivering modern f
 ## 💼 Projects
 
 Outside of my day to day work, I like solving problems and playing around with new technologies.
+Check my pinned repositories to know more about my personal work.
 
 ### 🧮 [CalcolaFisco.com](https://www.calcolafisco.com) - Italian Tax Calculator Suite
 
