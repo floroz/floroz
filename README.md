@@ -16,3 +16,13 @@ I put this philosophy into practice across the full stack by delivering modern f
 - **Email**: danieletortora.contact@gmail.com 
 - **Website**: https://danieletortora.netlify.app/
 - **LinkedIn**: https://www.linkedin.com/in/danieletortora/
+
+## 💼 Projects
+
+Outside of my day to day work, I like solving problems and playing around with new technologies.
+
+### 🧮 [CalcolaFisco.com](https://www.calcolafisco.com) - Italian Tax Calculator Suite
+
+**[Live Demo](https://www.calcolafisco.com)**
+
+A comprehensive, multilingual web application providing accurate Italian tax calculations for 2025 regulations. Built to help Italian citizens, expats, and professionals navigate Italy's complex tax system with confidence.
