@@ -28,7 +28,7 @@ Check my pinned repositories to know more about my personal work.
 
 A comprehensive, multilingual web application providing accurate Italian tax calculations for 2025 regulations. Built to help Italian citizens, expats, and professionals navigate Italy's complex tax system with confidence.
 
-### Course Forge
+### [Course Forge](https://github.com/floroz/CourseForge)
 
 CourseForge is a template system that helps engineers create personalized, project-based learning paths for any technology or skill.
 
