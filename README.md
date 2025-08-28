@@ -28,7 +28,7 @@ Check my pinned repositories to know more about my personal work.
 
 A comprehensive, multilingual web application providing accurate Italian tax calculations for 2025 regulations. Built to help Italian citizens, expats, and professionals navigate Italy's complex tax system with confidence.
 
-### 📚 [Course Forge](https://github.com/floroz/CourseForge) - Online Course Generator
+### 📚 [Course Forge](https://github.com/floroz/CourseForge) - Online Course Generator for Software Engineer
 
 Live Demo: 🔜
 
