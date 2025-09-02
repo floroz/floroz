@@ -28,6 +28,12 @@ Check my pinned repositories to know more about my personal work.
 
 A comprehensive, multilingual web application providing accurate Italian tax calculations for 2025 regulations. Built to help Italian citizens, expats, and professionals navigate Italy's complex tax system with confidence.
 
+### 🎲 [Paniere](https://github.com/floroz/paniere) - A digital version of the Tombola Napoletana
+
+[**Live Demo**](https://paniere.netlify.app/)
+
+A digital version of the traditional Neapolitan Tombola game with a retro twist!
+
 ### 🧑‍🤝‍🧑 [Go Social](https://github.com/floroz/go-social) - Social Media Platform
 
 A social network platform built in Go and React.
