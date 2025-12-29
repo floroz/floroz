@@ -24,7 +24,7 @@ Check my pinned repositories to know more about my personal work.
 
 ### [Gavel](https://github.com/floroz/gavel) - A distributed, event-driven Auction platform
 
-A distributed auction platform designed for data consistency and architectural resilience. Built with Go, Postgres, and RabbitMQ, Gavel leverages a robust event-driven architecture to decouple services and ensure reliable state management across the system.
+A distributed auction platform designed for data consistency and architectural resilience. Built with Go, Postgres, and RabbitMQ, Gavel leverages ConnectRPC and Protobuf for high-performance, type-safe API communication, alongside a robust event-driven architecture  to decouple services and ensure reliable state management across the system.
 
 ### 🧮 [CalcolaFisco.com](https://www.calcolafisco.com) - Italian Tax Calculator Suite
 
