@@ -22,6 +22,12 @@ I put this philosophy into practice across the full stack by delivering modern f
 Outside of my day to day work, I like solving problems and playing around with new technologies.
 Check my pinned repositories to know more about my personal work.
 
+### [Retro Game Personal Portfolio](https://github.com/floroz/retro-game-portfolio)
+
+[Live](https://www.danieletortora.com)
+
+A personal website presented as an interactive point-and-click adventure, inspired by classic SCUMM games. The experience features a fully functional Windows 95 desktop environment with windowed applications, including a game window, MS-DOS terminal, and recycle bin. Visitors explore a 2D scene, use a retro-style terminal, and open windows to read about skills, experience, contact, and more.
+
 ### 🔨 [Gavel](https://github.com/floroz/gavel) - A distributed, event-driven Auction platform
 
 A distributed auction platform designed for data consistency and architectural resilience. Built with Go, Postgres, and RabbitMQ, Gavel leverages ConnectRPC and Protobuf for high-performance, type-safe API communication, alongside a robust event-driven architecture  to decouple services and ensure reliable state management across the system.
