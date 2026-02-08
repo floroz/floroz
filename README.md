@@ -24,7 +24,7 @@ Check my pinned repositories to know more about my personal work.
 
 ### [Retro Game Personal Portfolio](https://github.com/floroz/retro-game-portfolio)
 
-[Live](https://www.danieletortora.com)
+**[Live: danieletortora.com](https://www.danieletortora.com)**
 
 A personal website presented as an interactive point-and-click adventure, inspired by classic SCUMM games. The experience features a fully functional Windows 95 desktop environment with windowed applications, including a game window, MS-DOS terminal, and recycle bin. Visitors explore a 2D scene, use a retro-style terminal, and open windows to read about skills, experience, contact, and more.
 
