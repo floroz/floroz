@@ -22,7 +22,7 @@ I put this philosophy into practice across the full stack by delivering modern f
 Outside of my day to day work, I like solving problems and playing around with new technologies.
 Check my pinned repositories to know more about my personal work.
 
-### [Retro Game Personal Portfolio](https://github.com/floroz/retro-game-portfolio)
+### 🎮 [Retro Game Personal Portfolio](https://github.com/floroz/retro-game-portfolio)
 
 **[Live: danieletortora.com](https://www.danieletortora.com)**
 
