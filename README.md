@@ -14,7 +14,7 @@ I put this philosophy into practice across the full stack by delivering modern f
 ## ✉️ Get in touch
 
 - **Email**: danieletortora.contact@gmail.com 
-- **Website**: https://danieletortora.netlify.app/
+- **Website**: https://www.danieletortora.com
 - **LinkedIn**: https://www.linkedin.com/in/danieletortora/
 
 ## 💼 Projects
@@ -22,12 +22,14 @@ I put this philosophy into practice across the full stack by delivering modern f
 Outside of my day to day work, I like solving problems and playing around with new technologies.
 Check my pinned repositories to know more about my personal work.
 
-### 🎮 [Retro Game Portfolio](https://github.com/floroz/retro-game-portfolio) - A retro point-and-click adventure portfolio with Windows 95 emulation
+### 🎮 [Retro Game Portfolio](https://github.com/floroz/retro-game-portfolio) - A portfolio disguised as a 90s point-and-click adventure
 
 
 **[Live: danieletortora.com](https://www.danieletortora.com)**
 
-A personal website presented as an interactive point-and-click adventure, inspired by classic SCUMM games. The experience features a fully functional Windows 95 desktop environment with windowed applications, including a game window, MS-DOS terminal, and recycle bin. Visitors explore a 2D scene, use a retro-style terminal, and open windows to read about skills, experience, contact, and more.
+A personal website presented as a LucasArts-style point-and-click adventure, in the spirit of _Monkey Island_ and _Grim Fandango_. Walk through an airport to three painted rooms, one for each country I have lived in (Sorrento, London and Zürich), where About, Skills, Experience, Contact and Resume open as illustrated close-ups. On desktop it runs inside a working Windows 98 desktop; on phones it becomes a portrait Pocket Adventure. You never have to play: a travel-trunk toolbar opens any section in one click.
+
+Built with React, TypeScript and a small custom canvas engine, and made with AI agents (Claude Code and OpenAI Codex) under my direction. [Read how it was built](https://github.com/floroz/retro-game-portfolio/blob/main/docs/blog/v2-revamp.md).
 
 ### 🔨 [Gavel](https://github.com/floroz/gavel) - A distributed, event-driven Auction platform
 
